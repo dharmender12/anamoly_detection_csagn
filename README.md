@@ -1,2 +1,2 @@
-# anamoly_detection_csagn
-The csagn are detected by using this code.
+# Machine_learning_project
+The first  commit from gui
